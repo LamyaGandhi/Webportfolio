@@ -76,7 +76,7 @@ The most challenging part of this project was integrating 3D models and animatio
 
 ## Feedback and Contact
 
-I would love to hear your feedback on my portfolio. Feel free to reach out if you have any suggestions or questions. You can contact me through the contact form on my website or connect with me on [LinkedIn](https://www.linkedin.com/in/lamya-gandhi).
+I would love to hear your feedback on my portfolio. Feel free to reach out if you have any suggestions or questions. You can contact me through the contact form on my website or connect with me on [LinkedIn](https://www.linkedin.com/in/lamyagandhi10).
 
 ---
 
